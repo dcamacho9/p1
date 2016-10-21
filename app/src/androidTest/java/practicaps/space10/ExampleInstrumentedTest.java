@@ -1,4 +1,4 @@
-package com.example.danic.myapplicationspi;
+package practicaps.space10;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.danic.myapplicationspi", appContext.getPackageName());
+        assertEquals("practicaps.space10", appContext.getPackageName());
     }
 }

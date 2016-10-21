@@ -1,4 +1,4 @@
-package com.example.danic.myapplicationspi;
+package practicaps.space10;
 
 import org.junit.Test;
 
